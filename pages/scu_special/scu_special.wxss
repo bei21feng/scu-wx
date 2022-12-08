@@ -1,0 +1,15 @@
+image{
+  width: 100%;
+  height: 300px;
+}
+
+.sub { 
+  color: white;
+  position: absolute;
+  margin: auto;
+  text-align: center;
+}
+
+#con{
+  margin: 30px;
+}

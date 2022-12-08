@@ -1,0 +1,24 @@
+<view >
+  <navigator url="wangjiang/wangjiang" open-type="navigate">
+  <text class="sub">望江校区</text>
+  <cover-image src="../image/xuan/wangjiang.jpg" />
+  </navigator>
+</view>
+
+<view >
+  <navigator url="huaxi/huaxi" open-type="navigate">
+  <text class="sub">华西校区</text>
+  <cover-image src="../image/xuan/huaxi.jpg" />
+  </navigator>
+</view>
+
+<view >
+  <navigator url="jiangan/jiangan" open-type="navigate">
+  <text class="sub">江安校区</text>
+  <cover-image src="../image/xuan/jiangan.jpg" />
+  </navigator>
+</view>
+
+<view>
+  <text class="con">\n目前四川大学共有三个校区，分别为望江校区、华西校区和江安校区，大部分新生会在江安校区度过头两年，然后在大学的剩余时光里搬到望江校区。前面讲了他作为顶级学校的原因，接下来说说他的另一个身份，全国最美大学之一。</text>
+</view>

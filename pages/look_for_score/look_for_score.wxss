@@ -1,0 +1,26 @@
+
+.input{
+  position: relative;
+  height: 40px;
+  width: 95%;
+  left: 1.5%;
+  border: 2px solid #f2f2f2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.estimate{
+  position: relative;
+  width: 96%;
+  left: 0;
+}
+.picture{
+  position: relative;
+  width: 100%;
+  height: 170px;
+}
+.display_picture{
+  position: relative;
+  width:100%;
+  height: 100%;
+}
+

@@ -1,0 +1,26 @@
+<view >
+  <navigator url="teacher01/teacher01" open-type="navigate">
+  <text class="sub">两院院士</text>
+  <cover-image src="../image/xuan/teacher01.png" />
+  </navigator>
+</view>
+
+<view >
+  <navigator url="teacher02/teacher02" open-type="navigate">
+  <text class="sub">四川大学杰出教授</text>
+  <cover-image src="../image/xuan/teacher02.png" />
+  </navigator>
+</view>
+
+<view >
+  <navigator url="teacher03/teacher03" open-type="navigate">
+  <text class="sub">长江学者</text>
+  <cover-image src="../image/xuan/teacher03.png" />
+  </navigator>
+</view>
+
+<view >
+    <text class="con">
+        四川大学构建了“一流大学、一流人才、一流业绩、一流待遇”的人才激励机制，不断优化师资结构，着力实施全球英才汇聚工程，师资队伍国际化水平不断提高......
+    </text>
+</view>

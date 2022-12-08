@@ -1,0 +1,16 @@
+<view >
+  <navigator url="scu_special1/scu_special1" open-type="navigate">
+  <text class="sub">本科</text>
+  <cover-image src="../image/xuan/scu_special1.jpg" />
+  </navigator>
+</view>
+
+<view >
+  <navigator url="scu_special2/scu_special2" open-type="navigate">
+  <text class="sub">研究生</text>
+  <cover-image src="../image/xuan/scu_special2.jpg" />
+  </navigator>
+</view>
+<view>
+  <text class="con">四川大学在长期的办学实践中，全面贯彻党的教育方针，坚持社会主义办学方向，按照习近平总书记提出的“扎根中国大地办大学”的根本要求，坚持“扎根西部、强化特色、创新引领、世界一流”的理念，培养一流人才，建设一流学科，打造一流队伍，创造一流业绩，全面推进学校党的建设新的伟大工程和建设世界一流大学新的伟大事业，奋力建设具有中国特色、川大风格的世界一流大学，已形成以"本科生教育为中心，研究生培养和科学研究为重点，其他办学形式为补充"的办学格局。我校学科门类齐全，实力雄厚，现覆盖文、理、工、医、经、管、法、史、哲、农、教、艺等12个门类，有131个本科招生专业和35个学院，成为国家36所世界一流大学建设A类高校之一、首批4所国家“双创”示范基地高校之一。学校现有全日制普通本科生3.7万余人，硕博士研究生2万余人，外国留学生及港澳台学生3700余人。\n</text>
+</view>

@@ -1,0 +1,12 @@
+{
+
+  "navigationBarBackgroundColot": "FFCC00",
+  "navigationBarTitleText": "校园生活",
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColot":"FFCC00",
+    "navigationBarTitleText": "校园生活",
+    "navigationBarTextStyle":"black"
+  }
+}
+

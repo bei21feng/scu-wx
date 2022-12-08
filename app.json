@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/school_life/school_life",
+    "pages/scu_special/scu_special",
+    "pages/look_for_score/look_for_score",
+    "pages/university_introduce/university_introduce",
+    "pages/s",
+    "pages/scu_special/scu_special1/scu_special1",
+    "pages/scu_special/scu_special2/scu_special2",
+    "pages/school_life/huaxi/huaxi",
+    "pages/school_life/jiangan/jiangan",
+    "pages/school_life/wangjiang/wangjiang",
+    "pages/teacher/teacher",
+    "pages/teacher/teacher01/teacher01",
+    "pages/teacher/teacher02/teacher02",
+    "pages/teacher/teacher03/teacher03"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

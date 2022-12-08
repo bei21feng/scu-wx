@@ -1,0 +1,10 @@
+<view class="contain">
+  <view class="picture">
+    <image mode='scaleToFill' class="display_picture"
+    src="../image/look_for_score.png"></image>
+  </view>
+  <view class="input_score">
+    <input class="input" type='text' confirm-type='search'></input>
+  </view>
+  <button class="estimate">预估</button>
+</view>

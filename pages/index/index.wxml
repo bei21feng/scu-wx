@@ -1,0 +1,50 @@
+<!--index.wxml-->
+<swiper class="picture_container" autoplay='true'>
+    <swiper-item ><image src='../image/new1.jpg'></image></swiper-item>
+    <swiper-item><image  src='../image/new2.jpg'></image></swiper-item>
+    <swiper-item><image  src='../image/new3.jpg'></image></swiper-item>
+  </swiper>
+
+<view class="function_container" id="area1" >
+  <view class="title">
+    <text class="title_word">报考专区</text>
+  </view>
+  <view class="function_button" id="function1" bindtap='go_1'>
+    <image src="../icon/Look_for_score.png"></image>
+    <text>分数预估</text>
+  </view>
+  <view class="function_button" id="function2">
+    <image src="../icon/professional_introduction.png"></image>
+    <text>专业介绍</text>
+  </view>
+  <view class="function_button" id="function3">
+    <image src="../icon/history_data.png"></image>
+    <text>历史数据</text>
+  </view>
+  <view class="function_button" id="function4">
+    <image src="../icon/admission_policy.png"></image>
+    <text>招生政策</text>
+  </view>
+</view>
+
+<view class="function_container" id="area2">
+  <view class="title">
+    <text class="title_word">we·川大</text>
+  </view>
+  <view class="function_button" id="function5" bindtap='go_5'>
+    <image src="../icon/scu_introduction.png"></image>
+    <text>川大简介</text>
+  </view>
+  <view class="function_button" id="function6" bindtap="go_6">
+    <image src="../icon/employment.png"></image>
+    <text>师资队伍</text>
+  </view>
+  <view class="function_button" id="function7" bindtap='go_7'>
+    <image src="../icon/scu_special.png"></image>
+    <text>特色培养</text>
+  </view>
+  <view class="function_button" id="function8" bindtap='go_8'>
+    <image src="../icon/school_life.png"></image>
+    <text>校园生活</text>
+  </view>
+</view>
